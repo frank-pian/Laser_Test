@@ -1,0 +1,5 @@
+V1.0
+适用于arduino nano
+
+返回激光器11位高度值
+校验错误返回ERROVALUE
